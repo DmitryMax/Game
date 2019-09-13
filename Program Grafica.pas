@@ -39,7 +39,7 @@ Procedure Player (PlayerI:  PictureABC; speed,hp : integer);
      window.Height:=600;
      window.Width:=900;
      window.Caption:='First Game';
-     window.Fill('‘ÓÌ.jpg');
+     window.Fill('–§–æ–Ω.jpg');
      Player (PlayerG, 10, 100);
      OnKeyDown := KeyD;
    end.
